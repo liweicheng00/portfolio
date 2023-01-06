@@ -8,7 +8,7 @@ function App() {
     return (
         <div className={`
             font-['Chivo_Mono'] w-full overflow-auto h-screen related fixed bg-cover 
-            bg-[url('./assets/images/DSCF4536.jpeg')]
+            bg-[url('./assets/images/DSCF4536.webp')]
         `}>
             <Hero/>
             <Projects/>
